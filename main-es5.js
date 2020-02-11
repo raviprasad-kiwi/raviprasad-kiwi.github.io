@@ -91,7 +91,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<h2>Welcome</h2>\n<p>rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  \n</p>\n<button class=\"btn btn-secondary mr-2\" routerLink=\"/usres\">User Section</button>\n<button class=\"btn btn-dark\" routerLink=\"/posts\">Post Section</button>\n";
+    __webpack_exports__["default"] = "<h2>Welcome</h2>\n<p><img src=\"assets\\img\\banner.svg\" class=\"rounded float-left mr-2\" alt=\"Responsive image\">\nrerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n</p><hr><p>\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  <img src=\"assets\\img\\img1.svg\" class=\"rounded float-left mr-2\" alt=\"Responsive image\">\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsamrerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsamrerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n</p><hr><p>aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  <img src=\"assets\\img\\img1.svg\" class=\"rounded float-right ml-2\" alt=\"Responsive image\">rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla\n  aut dicta possimus sint mollitia voluptas commodi quo doloremque iste corrupti reiciendis voluptatem eius rerum sit cumque quod eligendi laborum minima perferendis recusandae assumenda consectetur porro architecto ipsum ipsam\n  \n</p>\n<button class=\"btn btn-secondary mr-2\" routerLink=\"/usres\">User Section</button>\n<button class=\"btn btn-dark\" routerLink=\"/posts\">Post Section</button>\n";
     /***/
   },
 
@@ -111,7 +111,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<google-chart #chart\n   [title]=\"title\"\n   [type]=\"type\"\n   [data]=\"data\"\n   [columnNames]=\"columnNames\"\n   [options]=\"options\"\n   [width]=\"width\"\n   [height]=\"height\">\n</google-chart>\n";
+    __webpack_exports__["default"] = "<h2>Members List</h2>\n<google-chart #chart\n   [title]=\"title\"\n   [type]=\"type\"\n   [data]=\"data\"\n   [columnNames]=\"columnNames\"\n   [options]=\"options\"\n   [width]=\"width\"\n   [height]=\"height\">\n</google-chart>\n\n";
     /***/
   },
 
@@ -131,7 +131,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<nav class=\"navbar-dark navbar-expand navbar navbar-block bg-primary mb-4\">\n  <div class=\"container\">\n    <a class=\"navbar-brand\" routerLink=\"/\">Application</a>\n    <div >\n      <ul class=\"navbar-nav ml-auto\">\n        <li class=\"nav-item\">\n          <a routerLink=\"/\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Home</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"users\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Users</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"posts\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Posts</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"members\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Members</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"register\" class=\"nav-link\" *ngIf=\"!auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Register</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"login\" class=\"nav-link\" *ngIf=\"!auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Login</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"logout\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Logout</a>\n        </li>\n      </ul>\n    </div>\n  </div>\n</nav>\n";
+    __webpack_exports__["default"] = "<nav class=\"navbar-dark navbar navbar-expand-lg bg-primary mb-4\">\n  <div class=\"container\">\n    <a class=\"navbar-brand\" routerLink=\"/\"><span class=\"display-4\">BEDU</span><small>The Era Of Developing Uttrakhand</small></a>\n    <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n      <ul class=\"navbar-nav ml-auto\">\n        <li class=\"nav-item\">\n          <a routerLink=\"/\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Home</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"users\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Users</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"posts\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Posts</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"members\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Members</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"register\" class=\"nav-link\" *ngIf=\"!auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Register</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"login\" class=\"nav-link\" *ngIf=\"!auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Login</a>\n        </li>\n        <li class=\"nav-item\">\n          <a routerLink=\"logout\" class=\"nav-link\" *ngIf=\"auth.isLoggedIn()\" [routerLinkActive]=\"['active']\" [routerLinkActiveOptions]=\"{exact: true}\">Logout</a>\n        </li>\n      </ul>\n    </div>\n  </div>\n</nav>\n";
     /***/
   },
 
@@ -997,7 +997,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var AppComponent = function AppComponent() {
       _classCallCheck(this, AppComponent);
 
-      this.title = 'AnuglarApp';
+      this.title = 'Bedu';
     };
 
     AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -1456,7 +1456,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvbWVtYmVycy9tZW1iZXJzLmNvbXBvbmVudC5jc3MifQ== */";
+    __webpack_exports__["default"] = ".google-visualization-orgchart-table.tr.td{border: 120px solid black !important;}\n tr, td {\n    border: 0px !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9tZW1iZXJzL21lbWJlcnMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSwyQ0FBMkMsb0NBQW9DLENBQUM7Q0FDL0U7SUFDRyxzQkFBc0I7QUFDMUIiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL21lbWJlcnMvbWVtYmVycy5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmdvb2dsZS12aXN1YWxpemF0aW9uLW9yZ2NoYXJ0LXRhYmxlLnRyLnRke2JvcmRlcjogMTIwcHggc29saWQgYmxhY2sgIWltcG9ydGFudDt9XG4gdHIsIHRkIHtcbiAgICBib3JkZXI6IDBweCAhaW1wb3J0YW50O1xufSJdfQ== */";
     /***/
   },
 
@@ -1498,26 +1498,44 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       function MembersComponent() {
         _classCallCheck(this, MembersComponent);
 
-        this.title = '';
-        this.type = 'OrgChart';
-        this.data = [[{
-          v: 'Mike',
-          f: 'Mike<div style="color:red; font-style:italic">President</div>'
-        }, '', 'The President'], [{
-          v: 'Jim',
-          f: 'Jim<div style="color:red; font-style:italic">Vice President</div>'
-        }, 'Mike', 'VP'], ['Alice', 'Mike', ''], ['Bob', 'Jim', 'Bob Sponge'], ['Carol', 'Bob', 'sdfdsfs']];
-        this.columnNames = ["Name", "Manager", "Tooltip"];
-        this.options = {
-          allowHtml: true
-        };
-        this.width = 550;
-        this.height = 400;
+        this.onPageLoad();
+        console.log('this.onPageLoad()');
       }
 
       _createClass(MembersComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {}
+      }, {
+        key: "onPageLoad",
+        value: function onPageLoad() {
+          this.title = 'Bedu Members';
+          this.type = 'OrgChart';
+          this.data = [// tslint:disable-next-line:max-line-length
+          [{
+            v: 'Hari Kapruwan',
+            f: 'Hari Kapruwan<div style="color:red; font-style:italic">President</div><small>Address: Bijni D.Dun</small>'
+          }, '', 'The President'], [{
+            v: 'Ravi Kapruwan',
+            f: 'Ravi Kapruwan<div style="color:red; font-style:italic;">Vice President</div>'
+          }, 'Hari Kapruwan', 'VP'], ['Member2', 'Hari Kapruwan', ''], ['Member3', 'Ravi Kapruwan', 'Bob Sponge'], ['Member4', 'Ravi Kapruwan', ''], ['Member5', 'Member2', 'Bob Sponge'], ['Member6', 'Member4', 'Unknow'], ['Member7', 'Member5', 'Bob Sponge'], ['Member8', 'Member6', 'New Member']];
+          this.columnNames = ['Name', 'Manager', 'Tooltip'];
+          this.options = {
+            allowHtml: true
+          };
+          this.width = 5500;
+          this.height = 4000;
+        } // tslint:disable-next-line:use-lifecycle-interface
+
+      }, {
+        key: "ngAfterViewChecked",
+        value: function ngAfterViewChecked() {
+          var spanElements = document.getElementsByClassName('google-visualization-orgchart-node'); // tslint:disable-next-line:prefer-for-of
+
+          for (var i = 0; i < spanElements.length; i++) {
+            spanElements[i].style.border = '0px';
+            spanElements[i].style.width = '150px';
+          }
+        }
       }]);
 
       return MembersComponent;
